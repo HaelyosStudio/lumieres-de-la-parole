@@ -1,7 +1,7 @@
 # Lumières de la Parole
 
-Un jeu calme pour téléphone et ordinateur : de nuit, des lumières montent au-dessus d'un jardin,
-et chacune porte une parole d'amour de la Bible. On peut aussi y lire la Bible entière.
+Un jeu calme pour téléphone et ordinateur : dans un jardin peint comme un tableau, des lumières montent
+au-dessus d'un chemin fleuri, et chacune porte une parole d'amour de la Bible. On peut aussi y lire la Bible entière.
 
 ## Télécharger le jeu
 
@@ -18,12 +18,12 @@ Page des téléchargements : **[dernière version](https://github.com/HaelyosStu
 - **Le jardin** : toucher une lumière pour recevoir un verset ; le garder fait pousser une fleur.
   Les lumières dorées sont rares et donnent une fleur dorée.
 - **Lire la Bible** : les 66 livres, chapitre par chapitre. Toucher un verset pour le garder dans son jardin.
-- **L'Arbre de vie** raconte la lecture : une branche par livre commencé, une feuille par chapitre lu ;
+- **L'Arbre de vie**, au bout du chemin, raconte la lecture : un rameau par livre commencé, une touche de feuillage par chapitre lu ;
   il grandit à chaque livre entièrement lu, et chaque livre terminé allume aussi une étoile dans le ciel.
 - **Le verset du jour**, **Reconstituer un verset** (les mots sont mélangés), **Mon carnet**.
 - **Une fleur = un verset gardé** : 36 variétés à collectionner, réelles ou inventées ; toucher une fleur rouvre son verset.
 - **Merveilles du jardin** : 13 merveilles à débloquer (lucioles, colombe, fontaine, arc de l'alliance…).
-- **8 décors** pour le jardin (Nuit étoilée, Lac de Galilée, Nuit d'hiver, Désert de Judée, Aurore boréale, Jardin d'Éden…).
+- **9 décors** pour le jardin (Jardin au soleil, Nuit étoilée, Lac de Galilée, Nuit d'hiver, Désert de Judée, Aurore boréale, Jardin d'Éden…).
 
 Le jeu fonctionne sans Internet. Avec Internet, il reçoit automatiquement les nouveaux versets des lumières
 et signale quand une nouvelle version est disponible.
