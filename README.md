@@ -18,9 +18,10 @@ Page des téléchargements : **[dernière version](https://github.com/HaelyosStu
 - **Le jardin** : toucher une lumière pour recevoir un verset ; le garder fait pousser une fleur.
   Les lumières dorées sont rares et donnent une fleur dorée.
 - **Lire la Bible** : les 66 livres, chapitre par chapitre. Toucher un verset pour le garder dans son jardin.
-  Chaque chapitre lu fait grandir l'Arbre de vie ; chaque livre terminé allume une étoile.
+- **L'Arbre de vie** raconte la lecture : une branche par livre commencé, une feuille par chapitre lu ;
+  il grandit à chaque livre entièrement lu, et chaque livre terminé allume aussi une étoile dans le ciel.
 - **Le verset du jour**, **Reconstituer un verset** (les mots sont mélangés), **Mon carnet**.
-- **36 variétés de fleurs** à collectionner, réelles ou inventées ; toucher une fleur rouvre son verset.
+- **Une fleur = un verset gardé** : 36 variétés à collectionner, réelles ou inventées ; toucher une fleur rouvre son verset.
 - **Merveilles du jardin** : 13 merveilles à débloquer (lucioles, colombe, fontaine, arc de l'alliance…).
 - **8 décors** pour le jardin (Nuit étoilée, Lac de Galilée, Nuit d'hiver, Désert de Judée, Aurore boréale, Jardin d'Éden…).
 
