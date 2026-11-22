@@ -20,7 +20,9 @@ Page des téléchargements : **[dernière version](https://github.com/HaelyosStu
 - **Lire la Bible** : les 66 livres, chapitre par chapitre. Toucher un verset pour le garder dans son jardin.
   Chaque chapitre lu fait grandir l'Arbre de vie ; chaque livre terminé allume une étoile.
 - **Le verset du jour**, **Reconstituer un verset** (les mots sont mélangés), **Mon carnet**.
-- **Merveilles du jardin** : 13 décors à débloquer (lucioles, colombe, fontaine, arc de l'alliance…).
+- **36 variétés de fleurs** à collectionner, réelles ou inventées ; toucher une fleur rouvre son verset.
+- **Merveilles du jardin** : 13 merveilles à débloquer (lucioles, colombe, fontaine, arc de l'alliance…).
+- **8 décors** pour le jardin (Nuit étoilée, Lac de Galilée, Nuit d'hiver, Désert de Judée, Aurore boréale, Jardin d'Éden…).
 
 Le jeu fonctionne sans Internet. Avec Internet, il reçoit automatiquement les nouveaux versets des lumières
 et signale quand une nouvelle version est disponible.
