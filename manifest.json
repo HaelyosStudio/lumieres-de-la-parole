@@ -1,6 +1,16 @@
 {
-  "version_app": "1.7.0",
+  "version_app": "1.8.0",
   "versets_sha256": "02362ef2221d7cfcadac462cbf2c7cf4895c0a86a060690e3f41ad528ca43193",
   "nombre_versets": 42,
-  "traduction": "Louis Segond 1910 (domaine public)"
+  "traduction": "Louis Segond 1910 (domaine public)",
+  "windows": {
+    "url": "https://github.com/HaelyosStudio/lumieres-de-la-parole/releases/download/v1.8.0/LumieresDeLaParole.exe",
+    "sha256": "cf29e481aab5e6e7c46adbee9190e84e4c731dd6cd9c4ef0185de9ef3a5dc799",
+    "taille": 113846584
+  },
+  "android": {
+    "url": "https://github.com/HaelyosStudio/lumieres-de-la-parole/releases/download/v1.8.0/LumieresDeLaParole.apk",
+    "sha256": "844e71e0dd707e6fa591b2e97ed5bc23cca5b4f7aa1e46bd29efb8f5111495d7",
+    "taille": 59244433
+  }
 }
