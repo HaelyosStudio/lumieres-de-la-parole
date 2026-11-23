@@ -8,6 +8,7 @@ on:
     paths:
       - "data/versets.json"
       - "VERSION"
+      - "telechargements.json"
       - "tools/manifeste.py"
   workflow_dispatch:
 

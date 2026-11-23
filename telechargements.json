@@ -1,0 +1,13 @@
+{
+  "version": "1.8.0",
+  "windows": {
+    "url": "https://github.com/HaelyosStudio/lumieres-de-la-parole/releases/download/v1.8.0/LumieresDeLaParole.exe",
+    "sha256": "cf29e481aab5e6e7c46adbee9190e84e4c731dd6cd9c4ef0185de9ef3a5dc799",
+    "taille": 113846584
+  },
+  "android": {
+    "url": "https://github.com/HaelyosStudio/lumieres-de-la-parole/releases/download/v1.8.0/LumieresDeLaParole.apk",
+    "sha256": "844e71e0dd707e6fa591b2e97ed5bc23cca5b4f7aa1e46bd29efb8f5111495d7",
+    "taille": 59244433
+  }
+}

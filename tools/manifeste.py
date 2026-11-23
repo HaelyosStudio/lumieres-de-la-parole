@@ -56,6 +56,16 @@ manifeste = {
     "nombre_versets": len(versets),
     "traduction": d.get("traduction", ""),
 }
+# Fichiers de la dernière version (adresse, empreinte, taille), pour la mise à jour automatique du jeu.
+# telechargements.json est écrit à chaque publication ; il n'est repris que s'il correspond à la version.
+fichier_tl = RACINE / "telechargements.json"
+if fichier_tl.exists():
+    tl = json.loads(fichier_tl.read_text(encoding="utf-8"))
+    if tl.get("version") == version:
+        for plateforme in ("windows", "android"):
+            e = tl.get(plateforme)
+            if isinstance(e, dict) and str(e.get("url", "")).startswith("https://github.com/HaelyosStudio/lumieres-de-la-parole/releases/download/")                     and len(str(e.get("sha256", ""))) == 64 and int(e.get("taille", 0)) > 0:
+                manifeste[plateforme] = {"url": e["url"], "sha256": str(e["sha256"]).lower(), "taille": int(e["taille"])}
 (RACINE / "manifest.json").write_text(
     json.dumps(manifeste, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n"
 )
